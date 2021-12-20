@@ -53,15 +53,15 @@
     </p>
     <h2>Breeds of chickens</h2>
     <ul>
-        <li> Bantam
-            <ul>
-                <li>Silkie</li>
-                <li>Polish</li>
-            </ul>
-        </li>
-        <li> standard
-            <ul>
-                <li>Easter Egger</li>
+    <li> Bantam
+    <ul>
+    <li>Silkie</li>
+    <li>Polish</li>
+     </ul>
+      </li>
+      <li> standard
+       <ul>
+          <li>Easter Egger</li>
                 <li>Rhode Island Red</li>
             </ul>
         </li>
